@@ -1,7 +1,7 @@
 # Pentesting/Cybersecurity (Kinda broad, i know)
-- [TryHackMe](www.tryhackme.com "tryhackme.com")      - Great place to learn and do some easier level cftfs
+- [TryHackMe](www.tryhackme.com)      - Great place to learn and do some easier level cftfs
 
-- [HackTheBox](www.hackthebox.com "hackthebox.com")    - Pure ctf platform for more challenging ctfs 
+- [HackTheBox](www.hackthebox.com)    - Pure ctf platform for more challenging ctfs 
 
 - [PicoCTF](www.picoctf.com "picoctf.com")          - A pure ctf platform for easier ctfs
 
