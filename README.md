@@ -16,3 +16,5 @@
 - [Portswigger web security academy](https://portswigger.net/web-security/learning-path) - very good place to learn web app security
 
 - [Hacker101/HackerOne](hacker101.com/) - Good web application ctf site and hackerOne is the bug bounty platform to use.
+
+- [Web app recon methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go/) - Very good information in here 
