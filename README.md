@@ -9,8 +9,7 @@
 
 - [0x00sec](www.0x00sec "")              - extremely good forum where you can learn alot about programming, especially low level programming & malware
 
-- [General malware/exploit dev]          - a good github repo with some malware/exploit development resources.
-  (https://github.com/rootkit-io/malware-and-exploitdev-resources)
+- [General malware/exploit dev] (https://github.com/rootkit-io/malware-and-exploitdev-resources)         - a good github repo with some malware/exploit development resources.
 
 
 # Bug bounty/Web application pentesting
